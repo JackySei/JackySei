@@ -15,8 +15,8 @@ Let’s Go!!!!!!!!
 
 <img align="right" alt="GIF" src="./code.gif" width="100%" height="100%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackysei)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackysei)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jackysei)
+![github stats](https://github-readme-stats.vercel.app/api?username=jackysei) -->
 
-[![](https://activity-graph.herokuapp.com/graph?username=jackysei&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<!-- [![](https://activity-graph.herokuapp.com/graph?username=jackysei&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)  -->
