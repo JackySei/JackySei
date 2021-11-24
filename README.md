@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is where I record my study and life.
 <!--
 **JackySei/JackySei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m Jakcy. Let’s Go！！！
-![github stats](https://github-readme-stats.vercel.app/api?username=jackysei&show_icons=true)
+- 😄 I’m Jakcy. 
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning  Web Technology.
+- 📫 How to reach me: [@my-website](http://81.68.214.238/) [@csdn](https://blog.csdn.net/weixin_44969233)
+- ⚡ Fun fact: I really like playing Overwatch.
+
+![github stats](https://github-readme-stats.vercel.app/api?username=jackysei)
