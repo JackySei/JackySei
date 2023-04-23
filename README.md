@@ -8,7 +8,7 @@ This is where I record my study and life.
 - 😄 I’m Jakcy. 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning  Web Technology.
-- 📫 How to reach me:[[@my-website](https://jackysei.github.io/)](https://jackysei.github.io/) [@csdn](https://blog.csdn.net/weixin_44969233)
+- 📫 How to reach me:[@my-website](https://jackysei.github.io/)(https://jackysei.github.io/) [@csdn](https://blog.csdn.net/weixin_44969233)
 - ⚡ Fun fact: I really like playing Overwatch.
 
 Let’s Go!!!!!!!!
