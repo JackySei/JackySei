@@ -8,8 +8,9 @@ This is where I record my study and life.
 - 😄 I’m Jakcy. 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning  Web Technology.
-- 📫 How to reach me: [@my-website](https://jackysei.github.io/)
 - ⚡ Fun fact: I really like playing Overwatch.
+- 📫 How to reach me: email:1667880394@qq.com qq：1667880394 wechat:1667880394 .
+- 🥳 [@my-website](https://jackysei.github.io/) It records some projects and notes.
 
 Let’s Go!!!!!!!!
 
